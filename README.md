@@ -1,14 +1,14 @@
-Sales Insights: SQL and Power BI Project
+#Sales Insights: SQL and Power BI Project#
 
 An end-to-end sales analysis of an electronics hardware business in India, using MySQL for analysis and Power BI for an interactive dashboard.
 
-Tools Used:
+##Tools Used:
 MySQL: data exploration and business queries
 Power Query: data cleaning and transformation
 DAX: measures (revenue, sales quantity)
 Power BI Desktop: dashboard
 
-Data Model:
+##Data Model:
 
 The database has five tables:
 
@@ -21,7 +21,7 @@ Table         	Description
 
 Size: about 150,000 transactions between October 2017 and June 2020, across 15 markets and 38 customers.
 
-Power BI Dashboard:
+##Power BI Dashboard:
 
 What the dashboard shows:
 
